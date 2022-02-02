@@ -1,0 +1,9 @@
+module mux32_2_1(R, S, A, B);
+
+output [31:0];
+input S;
+input [31:0] A, B;
+
+	
+
+endmodule 

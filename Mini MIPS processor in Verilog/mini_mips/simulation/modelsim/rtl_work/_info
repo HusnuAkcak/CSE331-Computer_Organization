@@ -1,0 +1,467 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\active_courses\organization\hw\hw4\mini_mips\simulation\modelsim
+valu_32
+I=b_X][<M?^Xmde2<gQ4:C2
+Vjc@jQH@N5YZLnP@<a5SN23
+Z1 dD:\active_courses\organization\hw\hw4\mini_mips\simulation\modelsim
+w1641476870
+8D:/active_courses/organization/hw/hw4/mini_mips/src/alu_32.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/alu_32.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+D:/active_courses/organization/hw/hw4/mini_mips/src -O0
+!i10b 1
+!s100 EnMf0mO<LK_R^^`0`ZiXT0
+!s85 0
+!s108 1641769977.681000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/alu_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/alu_32.v|
+!s101 -O0
+vand_32
+I8A`CQ:7@kQJZl`@;H=@Sl3
+VFz:5oKnh7eKVW`YDc[=[Z1
+R1
+w1639866229
+8D:/active_courses/organization/hw/hw4/mini_mips/src/and_32.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/and_32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 b:o4Un>mD3SM8lbE3QOVC0
+!s85 0
+!s108 1641769977.573000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/and_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/and_32.v|
+!s101 -O0
+vfull_adder
+IIgd7H_KlgnnLoT6hNA7`=1
+V8I8B[P>aN?>YHUWNPY0RB3
+R1
+w1639885833
+8D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/full_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 kb4:kT_]8Wk:b;O6BCX[>2
+!s85 0
+!s108 1641769977.429000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder.v|
+!s101 -O0
+vfull_adder_32
+I8fbCcUM73E9kFh8[@dDI51
+VPb^d5REP9<^8de;Y5ecM=2
+R1
+w1639891209
+8D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder_32.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/full_adder_32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 PZF;XfNVNS<Un?3<5b>_W1
+!s85 0
+!s108 1641769977.167000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder_32.v|
+!s101 -O0
+vfull_adder_4
+IjzDKbk=MhGYoZZI<MaMm10
+VAN8HcAcOZR4<zQ>JT@29Q1
+R1
+w1639890869
+8D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder_4.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/full_adder_4.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 FoNX?PHeM3zX6mMYAhTj>1
+!s85 0
+!s108 1641769977.285000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder_4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/full_adder_4.v|
+!s101 -O0
+vinstruction_decoder
+I0>m2=W_:N1LC7kVI??TVf0
+VDC[EWlX<8jAi^eOYhOR[N2
+R1
+w1641481856
+8D:/active_courses/organization/hw/hw4/mini_mips/src/instruction_decoder.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/instruction_decoder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 m;n[jb3U_eFmaIL4RTGKi1
+!s85 0
+!s108 1641769978.209000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/instruction_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/instruction_decoder.v|
+!s101 -O0
+vMiniMIPS
+I_TU7Bn4n=[bg2hL`lXM_N2
+V^O8=na2HNcY>ViPT>lHT23
+R1
+w1641558061
+8D:/active_courses/organization/hw/hw4/mini_mips/src/MiniMIPS.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/MiniMIPS.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@mini@m@i@p@s
+!i10b 1
+!s100 79T53m43ZoReX_LBzRN932
+!s85 0
+!s108 1641769977.058000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/MiniMIPS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/MiniMIPS.v|
+!s101 -O0
+vMiniMIPS_testbench
+!i10b 1
+!s100 KmZaQBnQF_9SSk<CR<^Rz1
+I3[]Y[z;]a42WAN<AMljG>2
+VY0QJ?izkTI2LTl>WTToO32
+R1
+w1641770192
+8D:/active_courses/organization/hw/hw4/mini_mips/src/MiniMIPS_testbench.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/MiniMIPS_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1641770240.026000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/MiniMIPS_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|-O0|D:/active_courses/organization/hw/hw4/mini_mips/src/MiniMIPS_testbench.v|
+!s101 -O0
+R3
+R4
+n@mini@m@i@p@s_testbench
+vmips_alu_control
+Ia^4a7E43@E_a@W:?h]M6m3
+Vj6USkEf7G2jBQ2Vl@2[9<2
+R1
+w1641581654
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mips_alu_control.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mips_alu_control.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ^8WGB_8>nVBEoM2mZB:D31
+!s85 0
+!s108 1641769977.958000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mips_alu_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mips_alu_control.v|
+!s101 -O0
+vmips_control
+IZ18`g]^OgD`n6WkA]BD9:2
+V^f=6Aa8dAKH5X5I8IWaF]3
+R1
+w1641586793
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mips_control.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mips_control.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 m>WASoS^gk0Obi_3d=Seh1
+!s85 0
+!s108 1641769977.819000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mips_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mips_control.v|
+!s101 -O0
+vmips_data_memory
+I;RUSdP8gmTd_HN?<heio63
+VaDUlGPFFC_J?AzDoj0B=i1
+R1
+w1641587856
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mips_data_memory.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mips_data_memory.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 MLO68B>TBiPjFWHYmX3U?2
+!s85 0
+!s108 1641769978.558000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mips_data_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mips_data_memory.v|
+!s101 -O0
+vmips_instruction_memory
+I[H;OXV4_l4>LUb[<7Cb;D2
+VhTHRPSjTSB]Q21:T7C2S82
+R1
+w1641502387
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mips_instruction_memory.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mips_instruction_memory.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ;@M^`2V^`D:^ZH1lQ<Sm_0
+!s85 0
+!s108 1641769978.442000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mips_instruction_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mips_instruction_memory.v|
+!s101 -O0
+vmips_registers
+I:zz2nGCG4=cWY:OK_FkIS2
+VE>]h3dICm6fDHDln3F5;Y3
+R1
+w1641508030
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mips_registers.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mips_registers.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 29ABhklbNbN5_f0F[RRWB0
+!s85 0
+!s108 1641769978.323000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mips_registers.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mips_registers.v|
+!s101 -O0
+vmux32_2_1
+IkEen6Ve41HV=mX]j<PdeF2
+VAGE00[^^NZ2HTJ[hgRN?o3
+R1
+w1640017606
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mux32_2_1.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mux32_2_1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 KK]T5Z4d?QYabRPWAR5<>0
+!s85 0
+!s108 1641769976.434000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mux32_2_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mux32_2_1.v|
+!s101 -O0
+vmux_2_1
+IBA:;aIQ?QG>HcJLGK3BgU0
+V`<GC_2V604[^<_=7a>T691
+R1
+w1641501150
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mux_2_1.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mux_2_1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 [>0zzn0AI9c2SXR=_5IA53
+!s85 0
+!s108 1641769976.825000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mux_2_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mux_2_1.v|
+!s101 -O0
+vmux_4_1
+IXnjK8Nl]CiAPTFOk`<mAE3
+V[5<TK9S96dUnYDiFk[G?P2
+R1
+w1639880343
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mux_4_1.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mux_4_1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 QZABzIM3C?3kGcXL^kK7E1
+!s85 0
+!s108 1641769976.683000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mux_4_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mux_4_1.v|
+!s101 -O0
+vmux_8_1
+I]B7hOEBYPDVVTH3MA91YY0
+VYK`3`D]cmbG_g@@Y0OM@;1
+R1
+w1639880869
+8D:/active_courses/organization/hw/hw4/mini_mips/src/mux_8_1.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/mux_8_1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 0P3^QVn[S1VVT=NoId9E@0
+!s85 0
+!s108 1641769976.544000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/mux_8_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/mux_8_1.v|
+!s101 -O0
+vnor_32
+ID28GO^m?FW@S7JF0666G:1
+VBO?[FTEmUQ:0<_OPKF9Zn2
+R1
+w1639870101
+8D:/active_courses/organization/hw/hw4/mini_mips/src/nor_32.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/nor_32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 L0=UdkNkN3Z2Q_4B]SeKb2
+!s85 0
+!s108 1641769976.292000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/nor_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/nor_32.v|
+!s101 -O0
+vor_32
+IgfHD?c]BaP5U6a1Jhl^W:3
+VQbG:g1_AdRke@>AEi_b_<1
+R1
+w1639863139
+8D:/active_courses/organization/hw/hw4/mini_mips/src/or_32.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/or_32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 TZ_WPESRolzjON>aVbH9M2
+!s85 0
+!s108 1641769976.199000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/or_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/or_32.v|
+!s101 -O0
+vsign_extender
+IJ3AIKAHik;z8]VjDcT28a1
+Vo0cIBeFAZRjc]AL[1j_Nd1
+R1
+w1641420565
+8D:/active_courses/organization/hw/hw4/mini_mips/src/sign_extender.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/sign_extender.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 <A3hd96MfZa4h8?bjkMYo3
+!s85 0
+!s108 1641769978.067000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/sign_extender.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/sign_extender.v|
+!s101 -O0
+vslt_32
+INl=9Q>BLaLUZ<C=6HjfBc0
+V0NlHdhX6zVG12LMF;QKlQ2
+R1
+w1639950524
+8D:/active_courses/organization/hw/hw4/mini_mips/src/slt_32.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/slt_32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 m9PnPL5:I_I;KBn;NAQlk3
+!s85 0
+!s108 1641769976.107000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/slt_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/slt_32.v|
+!s101 -O0
+vsub_32
+I7WblBch>[8gBZamz]CdKn2
+V5K^C2CfeMeSCYSaNCPMJS2
+R1
+w1639899195
+8D:/active_courses/organization/hw/hw4/mini_mips/src/sub_32.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/sub_32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ^MJz6<HKYCISXVYN@5og`2
+!s85 0
+!s108 1641769974.769000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/sub_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/sub_32.v|
+!s101 -O0
+vxor_32
+IO_^c9mB02ZK<e91XZ[2dP1
+VV@oGFMh`V8<5gB@>L:Yz53
+R1
+w1639868949
+8D:/active_courses/organization/hw/hw4/mini_mips/src/xor_32.v
+FD:/active_courses/organization/hw/hw4/mini_mips/src/xor_32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ZDE_l3^jX^cccS4XR3hM30
+!s85 0
+!s108 1641769974.533000
+!s107 D:/active_courses/organization/hw/hw4/mini_mips/src/xor_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/active_courses/organization/hw/hw4/mini_mips/src|D:/active_courses/organization/hw/hw4/mini_mips/src/xor_32.v|
+!s101 -O0

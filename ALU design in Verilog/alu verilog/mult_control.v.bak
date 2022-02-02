@@ -1,0 +1,5 @@
+module mult_control(clk, start, done, count, lm, lp, sm);
+
+input clk, start, done;
+output count, lm, lp, sm;
+

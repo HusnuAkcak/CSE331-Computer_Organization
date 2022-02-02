@@ -1,0 +1,8 @@
+module sub(R, A, B);
+
+output [31:0] R;
+input [31:0] A, B;
+
+
+
+endmodule 

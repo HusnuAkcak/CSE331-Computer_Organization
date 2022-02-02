@@ -1,0 +1,12 @@
+module full_adder_4(S, C_O, A, B, C_I);
+
+input [3:0] A, B, C_I;
+output [3:0] S;
+output C_O;
+
+
+
+
+
+
+endmodule 

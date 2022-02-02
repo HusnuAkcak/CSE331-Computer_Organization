@@ -1,0 +1,9 @@
+module mult_alu(multipliar_res, product_res, product, multipliar, multiplicant, alu_sign);
+
+input [31:0] product, multipliar, multiplicant;
+input alu_sign;
+output [31:0] multipliar_res, product_res;
+
+
+
+endmodule

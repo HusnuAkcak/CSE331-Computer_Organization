@@ -1,0 +1,27 @@
+`timescale 1 ps / 1 ps
+module or_32_tb();
+
+	reg [31:0] A;
+	reg [31:0] B;
+	wire [31:0] R;
+
+	reg clk;
+
+	or_32 or_32_inst(.A(A), .B(B), .R(R));
+	
+	always
+		begin 
+			#2 clk = ~clk;
+		end
+		
+	initial 
+		begin 
+			A = 32'b00000000000000000000000000000000;
+			B = 32'b01100110011001100110011001100110;
+	
+		#5 A = 32'b00001111000011110000111100000000;
+			 B = 32'b01100110111101100110011001100110;
+			
+		end
+	
+endmodule

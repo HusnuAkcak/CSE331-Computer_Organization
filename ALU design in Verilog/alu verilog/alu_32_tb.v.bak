@@ -1,0 +1,24 @@
+`timescale 1 ps / 1 ps
+module alu_32_tb();
+
+	reg S_0, S_1, S_2, I_0, I_1, I_2, I_3, I_4, I_5, I_6, I_7;
+	wire R;
+
+	reg clk;
+	
+	mux_8_1 mux_8_1_inst(R, S_0, S_1, S_2, I_0, I_1, I_2, I_3, I_4, I_5, I_6, I_7);
+	
+	always
+		begin 
+			#1 clk = ~clk;
+		end
+		
+	initial 
+		begin 
+			I_7 = 1;
+			
+			#100 
+			
+		end
+	
+endmodule

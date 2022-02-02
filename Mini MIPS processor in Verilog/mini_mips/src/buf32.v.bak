@@ -1,0 +1,8 @@
+module buff32(dest, source);
+	
+	input [31:0] source;
+	output [31:0] dest;
+
+		
+	
+endmodule 

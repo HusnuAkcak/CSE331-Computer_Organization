@@ -1,0 +1,11 @@
+module mips_control(reg_dest, branch, mem_read, mem_to_reg, alu_op, mem_write, alu_src, reg_write, opcode);
+	
+	input opcode;
+	output reg_dest, branch, mem_read, mem_to_reg, mem_write, alu_src, reg_write;
+	output [1:0] alu_op;
+	
+
+	
+	
+endmodule
+	

@@ -1,0 +1,11 @@
+module mult_32(hi, lo, multipliar, multiplicant, start);
+
+output [31:0] hi, lo;
+input [31:0] multipliar, multiplicant;
+input start;
+
+
+	
+
+
+endmodule 

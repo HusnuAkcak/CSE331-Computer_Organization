@@ -1,0 +1,13 @@
+module mips_instruction_memory(instruction, read_address);
+
+	output reg[16:0] instruction;
+	input [31:0] read_address;
+	
+	reg [15:0] instructions [300]; // for the demo instruction memory length is set 300 instead of 2^32
+	
+	initial 
+	begin 
+		$readmemb("instruction_memory.mem", )
+	end
+	
+endmodule

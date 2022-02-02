@@ -1,0 +1,9 @@
+module full_adder(S, C_O, A, B, C_I);
+
+input A, B, C_I;
+output S, C_O;
+
+
+	xor(S, A, B, C_I);
+
+endmodule 

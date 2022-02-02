@@ -1,0 +1,4 @@
+module mux_4_1(R, S_0, S_1, I_0, I_1, I_2, I_3);
+
+output R;
+input S_0, S_1, I_0, I_1, I_2, I_3;

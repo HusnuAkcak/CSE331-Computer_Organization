@@ -1,0 +1,4 @@
+module instruction_decoder(opcode, rs, rt, rd, func, imm, instruction);
+
+	input [15:0] instruction;
+	

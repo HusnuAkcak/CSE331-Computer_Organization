@@ -1,0 +1,22 @@
+module mult_alu_tb();
+
+reg [31:0] product, multipliar, multiplicant;
+reg alu_sign;
+wire [31:0] multipliar_res, product_res;
+	
+	shift_right g0(R, A);
+	
+	initial 
+		begin 
+			A = 32'b11111111111111110000000000000000;
+	
+		#100 
+			A = 32'b11111111111111111111111111111111;
+			
+		end
+		
+		initial begin
+			$monitor("time = %2d\n A = %32b\n R = %32b \n\n", $time, A, R);
+		end
+	
+endmodule 
